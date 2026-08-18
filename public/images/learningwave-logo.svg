@@ -1,0 +1,12 @@
+<svg width="260" height="56" viewBox="0 0 260 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="74" y2="44" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C4A4FF"/>
+      <stop offset="0.52" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#4C1D95"/>
+    </linearGradient>
+  </defs>
+  <path d="M6 32C18 16 31 16 44 32C57 48 70 48 82 32" stroke="url(#g)" stroke-width="10" stroke-linecap="round"/>
+  <path d="M14 22C25 8 38 8 50 22C61 35 72 35 84 22" stroke="url(#g)" stroke-width="8" stroke-linecap="round" opacity="0.55"/>
+  <text x="102" y="36" font-family="Inter, Arial, sans-serif" font-size="26" font-weight="800" fill="#080B2E">LearningWave</text>
+</svg>
